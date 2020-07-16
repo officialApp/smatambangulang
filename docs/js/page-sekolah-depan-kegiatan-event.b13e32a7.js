@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["page-sekolah-depan-kegiatan-event"],{"4fe6":function(e,n,a){"use strict";a.r(n);var t=function(){var e=this,n=e.$createElement,a=e._self._c||n;return a("div",[e._v("\n    kegiatan event\n")])},l=[],u={layout:"awal"},i=u,o=a("2877"),s=Object(o["a"])(i,t,l,!1,null,null,null);n["default"]=s.exports}}]);
+//# sourceMappingURL=page-sekolah-depan-kegiatan-event.b13e32a7.js.map

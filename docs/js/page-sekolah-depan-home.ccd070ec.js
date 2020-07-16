@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["page-sekolah-depan-home"],{"238d":function(e,n,a){"use strict";a.r(n);var l=function(){var e=this,n=e.$createElement,a=e._self._c||n;return a("div",[e._v("\n    HOME\n")])},t=[],o={layout:"awal"},u=o,s=a("2877"),c=Object(s["a"])(u,l,t,!1,null,null,null);n["default"]=c.exports}}]);
+//# sourceMappingURL=page-sekolah-depan-home.ccd070ec.js.map

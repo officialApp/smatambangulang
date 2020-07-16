@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["page-sekolah-wali-index"],{d6bb:function(n,e,l){"use strict";l.r(e);var a,o,p=l("2877"),s={},u=Object(p["a"])(s,a,o,!1,null,null,null);e["default"]=u.exports}}]);
+//# sourceMappingURL=page-sekolah-wali-index.7c593b0a.js.map
